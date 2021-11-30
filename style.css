@@ -1,0 +1,27 @@
+img{
+  width:300px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+body{
+	background-color:cornsilk;
+	font-family:Arial;
+}
+.red{
+color:red;
+}
+.big_font{
+font-size:32px;
+}
+#specialstyle{
+	background:yellow;
+	border:2px solid red;width:45%
+}
+
+
